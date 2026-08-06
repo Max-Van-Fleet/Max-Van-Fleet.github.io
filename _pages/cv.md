@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in Data Science, University of North Carolina at Chapel Hill, 2012
+* Ph.D in Statistics and Operations Research, UNC-Chapel Hill, 2031 (expected)
+* B.S. in Data Science With a Second Major in Statistics and Analytics, UNC-Chapel Hill, 2026
 
 Work experience
 ======
